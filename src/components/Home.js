@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import profile from "./21bai1546.jpg";
-import resume from "./Renugadevi_resume.pdf";
+import profile from "./21BAI1477.jpeg";
+import resume from "./RESUME RITHIKA.pdf";
 import Type from "./Type";
 
 function Home() {
@@ -23,7 +23,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> S.Renuga Devi</strong>
+                <strong className="main-name"> Pannala Rithika</strong>
               </h1>
 
               <div

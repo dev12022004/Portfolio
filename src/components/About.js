@@ -7,7 +7,7 @@ function About() {
       <div className="about-main justify-content-center">
         <p>
           Hello guys,
-          <br /> Iam S.Renuga Devi <br />
+          <br /> Iam Pannala Rithika <br />
           from Vellore Institute of Technology , Chennai <br />
           Currently studing 3rd year in Computer Science Engineering
         </p>
@@ -37,19 +37,19 @@ function About() {
             <tr>
               <th scope="row">B.tech</th>
               <td>Vellore Institute of Technology,Chennai</td>
-              <td>8.37 CGPA</td>
+              <td>8.65 CGPA</td>
               <td>2021 - Present</td>
             </tr>
             <tr>
               <th scope="row">12th</th>
-              <td>Vailankanni public school</td>
-              <td>94.2 %</td>
+              <td>Hyderabad</td>
+              <td>95.8 %</td>
               <td>2019 - 2021</td>
             </tr>
             <tr>
               <th scope="row">10th</th>
-              <td>The Vijay Millennium</td>
-              <td>92.4%</td>
+              <td>Hyderabad</td>
+              <td>9.7</td>
               <td>2019</td>
             </tr>
           </tbody>

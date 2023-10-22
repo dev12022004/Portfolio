@@ -17,7 +17,7 @@ function Navbars() {
         <div class="container">
           <Link className="navbar-brand text-dark" to="/">
             <img src={profile} alt="" />{" "}
-            Renuga Devi
+            Pannala Rithika
           </Link>
 
           <button
